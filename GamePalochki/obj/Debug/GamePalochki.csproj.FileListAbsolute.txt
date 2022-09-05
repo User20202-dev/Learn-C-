@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\первый проект\GamePalochki\bin\Debug\GamePalochki.exe.config
+C:\Users\User\source\repos\первый проект\GamePalochki\bin\Debug\GamePalochki.exe
+C:\Users\User\source\repos\первый проект\GamePalochki\bin\Debug\GamePalochki.pdb
+C:\Users\User\source\repos\первый проект\GamePalochki\obj\Debug\GamePalochki.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\первый проект\GamePalochki\obj\Debug\GamePalochki.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\первый проект\GamePalochki\obj\Debug\GamePalochki.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\первый проект\GamePalochki\obj\Debug\GamePalochki.exe
+C:\Users\User\source\repos\первый проект\GamePalochki\obj\Debug\GamePalochki.pdb
