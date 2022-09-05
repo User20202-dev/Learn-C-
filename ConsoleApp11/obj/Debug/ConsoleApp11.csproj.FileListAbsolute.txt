@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\первый проект\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+C:\Users\User\source\repos\первый проект\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+C:\Users\User\source\repos\первый проект\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+C:\Users\User\source\repos\первый проект\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\первый проект\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\первый проект\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\первый проект\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+C:\Users\User\source\repos\первый проект\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
